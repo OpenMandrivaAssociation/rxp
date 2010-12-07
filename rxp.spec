@@ -1,6 +1,6 @@
 %define name	rxp
 %define version	1.4.8
-%define rel	4
+%define rel	5
 %define release	%mkrel %{rel}
 
 Name:		%{name}
