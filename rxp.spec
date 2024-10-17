@@ -9,7 +9,7 @@ Release:	%{release}
 Summary:	XML parser
 Group:		Development/Other
 License:	GPL
-URL:		http://www.cogsci.ed.ac.uk/~richard/rxp.html
+URL:		https://www.cogsci.ed.ac.uk/~richard/rxp.html
 Source:		ftp://ftp.cogsci.ed.ac.uk/pub/richard/%{name}-%{version}.tar.bz2
 Patch:		%{name}.makefile.patch
 BuildRoot:      %{_tmppath}/%{name}-%{version}
