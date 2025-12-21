@@ -14,6 +14,7 @@ Source:		ftp://ftp.cogsci.ed.ac.uk/pub/richard/%{name}-%{version}.tar.bz2
 Patch:		%{name}.makefile.patch
 BuildRoot:      %{_tmppath}/%{name}-%{version}
 
+BuildRequires:	make
 %description
 RXP is a validating XML parser written in C. It is used by the LT XML toolkit,
 and the Festival speech synthesis system.
